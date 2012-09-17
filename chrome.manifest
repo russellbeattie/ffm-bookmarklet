@@ -1,0 +1,2 @@
+content runbookmarklet content/
+override chrome://runbookmarklet/content/options.xul chrome://runbookmark/content/fennec-options.xul
